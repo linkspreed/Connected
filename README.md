@@ -1,4 +1,4 @@
-# <img align="left" alt="Linkspreed" width="100px" src="https://www.linkspreed.com/themes/wondertag/img/logo.png" draggable="false" /> Linkspreed ([Click to try 🚀](https://www.linkspreed.com/)) (v4.1.5)
+# <img align="left" alt="Linkspreed" width="100px" src="https://connected.tk/themes/wondertag/img/icon.png" draggable="false" /> Connected ([Click to try 🚀](https://connected.tk/)) (v4.1.5)
 
 Linkspreed 🧡 - the heart and core of our projects 🚀- the largest social network 🌱that is oriented towards the future✨
 
