@@ -1,10 +1,9 @@
-# <img align="left" alt="Linkspreed" width="100px" src="https://connected.tk/themes/wondertag/img/icon.png" draggable="false" /> Connected ([Click to try 🚀](https://connected.tk/)) (v4.1.5)
+# <img align="left" alt="Linkspreed" width="100px" src="https://connected.tk/themes/wondertag/img/icon.png" draggable="false" /> Connected - Decentralized Social Media ([Click to try 🚀](https://connected.tk/)) (v4.1.5)
 
-Linkspreed 🧡 - the heart and core of our projects 🚀- the largest social network 🌱that is oriented towards the future✨
+Connect to Connected 🌐 on the largest decentralized social network! 📱
 
-
-## **[Changelog 🧡](https://github.com/linkspreed/linkspreed.com/blob/main/changelog.md)** **Check out the full Linkspreed changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/linkspreed.com/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Linkspreed besides development**
+## **[Changelog 🌐](https://github.com/linkspreed/Connected/blob/main/changelog.md)** **Check out the full Connected changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Connected/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Connected besides development**
 
 
 <div align="center">
@@ -27,15 +26,15 @@ Linkspreed 🧡 - the heart and core of our projects 🚀- the largest social ne
 
 ## More
  
-**Linkspreed** was developed for you. 
+**Connected** was developed for you. 
 Are you creative, 
 like to laugh or just 
 want to start the day relaxed? 
-Linkspreed is a social network where millions of users share their best moments, 
+Connected is a social network where millions of users share their best moments, 
 show off their creativity and 
 put a smile on other people's faces.
 
-Linkspreed is developed and provided by [Linkspreed 🚀](https://www.linkspreed.com/).
+Connected is developed and provided by [Linkspreed 🚀](https://www.linkspreed.com/).
 
  ```php
     We make sure that our code 
@@ -45,28 +44,28 @@ Linkspreed is developed and provided by [Linkspreed 🚀](https://www.linkspreed
 
  ```txt
    We will soon be presenting
-   Linkspreed's API here on GitHub
+   Connected's API here on GitHub
    as well :)
 ```
- Register now on Linkspreed and immerse yourself in a network with no limits to creativity.
+ Register now on Connected and immerse yourself in a network with no limits to creativity.
 
 ## 📷 UI
 
 
 ### Welcome :)
-<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/Screenshots/1.PNG" draggable="false" />
+<img align="center" alt="Connected" width="3000px" src="https://github.com/linkspreed/Connected/blob/main/Screenshots/1.png" draggable="false" />
 
 ### News Feed
-<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/Screenshots/2.PNG" draggable="false" />
+<img align="center" alt="Connected" width="3000px" src="https://github.com/linkspreed/Connected/blob/main/Screenshots/2.png" draggable="false" />
 
 ### Profile
-<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/Screenshots/3.PNG" draggable="false" />
+<img align="center" alt="Connected" width="3000px" src="https://github.com/linkspreed/Connected/blob/main/Screenshots/3.png" draggable="false" />
 
 ### Chats
-<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/Screenshots/4.PNG" draggable="false" />
+<img align="center" alt="Connected" width="3000px" src="https://github.com/linkspreed/Connected/blob/main/Screenshots/4.png" draggable="false" />
 
 ### Dark Mode
-<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/Screenshots/5.PNG" draggable="false" />
+<img align="center" alt="Connected" width="3000px" src="https://github.com/linkspreed/Connected/blob/main/Screenshots/5.png" draggable="false" />
 
 ### General Settings
-<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/Screenshots/6.PNG" draggable="false" />
+<img align="center" alt="Connected" width="3000px" src="https://github.com/linkspreed/Connected/blob/main/Screenshots/6.png" draggable="false" />
