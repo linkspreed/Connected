@@ -65,4 +65,4 @@ Connected is developed and provided by [Linkspreed 🚀](https://www.linkspreed.
 <img align="center" alt="Connected" width="3000px" src="https://github.com/linkspreed/Connected/blob/main/Screenshots/4.png" draggable="false" />
 
 ### General Settings
-<img align="center" alt="Connected" width="3000px" src="https://github.com/linkspreed/Connected/blob/main/Screenshots/6.png" draggable="false" />
+<img align="center" alt="Connected" width="3000px" src="https://github.com/linkspreed/Connected/blob/main/Screenshots/5.png" draggable="false" />
