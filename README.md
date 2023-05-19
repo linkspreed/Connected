@@ -1,4 +1,4 @@
-# <img align="left" alt="Linkspreed" width="100px" src="https://connected.tk/themes/wondertag/img/icon.png" draggable="false" /> Connected - Decentralized Social Media ([Click to try 🚀](https://connected.tk/)) (v4.1.5)
+# <img align="left" alt="Linkspreed" width="100px" src="https://connected.tk/themes/wondertag/img/icon.png" draggable="false" /> Connected - Decentralized Social Media ([Click to try 🚀](https://connected.tk/)) (v4.2.1)
 
 Connect to Connected 🌐 on the largest decentralized social network! 📱
 
