@@ -1,3 +1,6 @@
+### 11.06.2023 (announcement Connected)
+- 🚨BIG NEWS🚨We've just added #Connected to our Subdomain system!🤩 Check out https://connected.tk which now directs you to https://connected.linkspreed.com!👨‍💻💻 Don't worry, nothing changes in your usual platform usage🧘‍♀️🧘‍♂️ So, who's excited?💥 #technology #data #users
+
 ### 19.05.2023 (announcement Connected)
 - 📢 We are thrilled to announce that we have updated our decentralized social network Connected to the latest version v4.2.1 🎉 Join us to experience the improved performance and enhanced features! 🙌 Have you downloaded the update yet? #ConnectedUpdate #DecentralizedNetwork 💻📱
 
